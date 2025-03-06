@@ -1,0 +1,52 @@
+Initializing the switch
+vlan: {0: 2, 1: 1, 2: -1, 3: -1}
+# Starting switch with id 2
+[INFO] Switch MAC de:fe:c8:ed:02:04
+r-0
+r-1
+rr-0-2
+rr-1-2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2048
+Received frame of size 42 on interface 0
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2048
+Received frame of size 46 on interface 3
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 2048
+Received frame of size 38 on interface 2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2048
+Received frame of size 46 on interface 2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 1
+Received frame of size 34 on interface 3
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2048
+Received frame of size 46 on interface 3
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 49320
+Received frame of size 26 on interface 2
+Destination MAC: de:ad:be:ef:00:01
+Source MAC: de:ad:be:ef:00:04
+EtherType: 2048
+Received frame of size 46 on interface 2
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 0
+Received frame of size 22 on interface 3
+Destination MAC: ff:ff:ff:ff:ff:ff
+Source MAC: de:ad:be:ef:00:01
+EtherType: 261
+Received frame of size 14 on interface 2
+Setting up interface: r-0
+Setting up interface: r-1
+Setting up interface: rr-0-2
+Setting up interface: rr-1-2
